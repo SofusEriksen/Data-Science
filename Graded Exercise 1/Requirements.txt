@@ -1,0 +1,4 @@
+import re==2.2.1
+import pandas as pd
+import requests==2.27.1
+from io import StringIO
